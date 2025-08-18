@@ -1,0 +1,7 @@
+[P3585 [POI 2015] PIE - 洛谷](https://www.luogu.com.cn/problem/P3585)
+
+[#4259. 「KTSC 2024 R1」铁路 2 - 题目 - LibreOJ](https://loj.ac/p/4259)
+
+[Maximum Bitwise OR - 题目 - QOJ.ac](https://qoj.ac/contest/1259/problem/6631)
+
+[Gastronomic Event - 题目 - QOJ.ac](https://qoj.ac/contest/918/problem/3869)

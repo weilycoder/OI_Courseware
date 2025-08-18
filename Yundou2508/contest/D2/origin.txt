@@ -1,0 +1,5 @@
+[P5956 [POI 2017] Podzielno - 洛谷](https://www.luogu.com.cn/problem/P5956)
+
+[One Must Imagine Sisyphus Happy - Problem - QOJ.ac](https://qoj.ac/contest/2025/problem/10738)
+
+BZOJ 4047
